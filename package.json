@@ -1,0 +1,25 @@
+{
+  "name": "graph-isomorphism",
+  "version": "0.1.0",
+  "description": "Small library to count the number of isomorphisms between two graphs",
+  "main": "graphIsomorphisms.js",
+  "scripts": {
+    "test": "node_modules/.bin/tape test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wires/graph-isomorphisms.git"
+  },
+  "keywords": ["graph", "graphs", "isomorphic", "isomorphisms",
+  "unification", "mathematics", "relational programming"],
+  "author": "Jelle 'wires' Herold <jelle@defekt.nl>",
+  "license": "AGPL-1.0",
+  "bugs": {
+    "url": "https://github.com/wires/graph-isomorphisms/issues"
+  },
+  "homepage": "https://github.com/wires/graph-isomorphisms#readme",
+  "dependencies": {
+    "datascript": "^0.15.0",
+    "ramda": "^0.21.0"
+  }
+}
