@@ -55,7 +55,7 @@ if (computeIsomorphisms(g_1, g_2).length === 0) {
 }
 ```
 
-![example graphs, g_3, g_4](graphs2.png)
+![example graphs, g_3, g_4](images/graphs2.png)
 
 Actually, if they are isomorphic, you will get proofs:
 a mapping between the edges (negative numbers) and nodes.
